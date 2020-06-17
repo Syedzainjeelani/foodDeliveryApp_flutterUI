@@ -4,11 +4,11 @@ Flutter UI Practice, Food Delivery App UI
 
 <div align="center">
 <p align="center">Home Screen</p>
-<img src="assets/screenshots/homescreen.png" width="400px" height="400" alt="homescreen"</img>
+<img src="assets/screenshots/homescreen.png" width="400px" height="600" alt="homescreen"</img>
 <p align="center">Restaurant Screen</p>
-<img src="assets/screenshots/restourantscreen.png" width="400px" height="400" alt="restaurant_screen"</img>
+<img src="assets/screenshots/restourantscreen.png" width="400px" height="600" alt="restaurant_screen"</img>
 <p align="center">Cart Screen</p>
-<img src="assets/screenshots/cartscreen.png" width="400px" height="400" alt="cart_screen"</img>
+<img src="assets/screenshots/cartscreen.png" width="400px" height="600" alt="cart_screen"</img>
 </div>
 
 
