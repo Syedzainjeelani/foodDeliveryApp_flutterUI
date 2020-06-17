@@ -4,11 +4,19 @@ Flutter UI Practice, Food Delivery App UI
 
 UI inpired from Marcus NG
 
-![Home Screen](assets/screenshots/homescreen.png)
+<!-- ![Home Screen](assets/screenshots/homescreen.png) -->
+Home Screen
+<img src="assets/screenshots/homescreen.png" width="400px"</img>
 
-![Restaurant Screen](assets/screenshots/restourantscreen.png)
+Restaurant Screen
+<img src="assets/screenshots/restourantscreen.png" width="400px"</img>
 
-![Cart Screen](assets/screenshots/cartscreen.png)
+Cart Screen
+<img src="assets/screenshots/cartscreen.png" width="400px"</img>
+
+<!-- ![Restaurant Screen](assets/screenshots/restourantscreen.png) -->
+
+<!-- ![Cart Screen](assets/screenshots/cartscreen.png) -->
 
 
 
