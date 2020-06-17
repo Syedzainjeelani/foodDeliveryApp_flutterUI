@@ -2,7 +2,7 @@
 Flutter UI Practice, Food Delivery App UI  
 <<<<<<< HEAD
 
-UI inpired from Marcus NG
+
 
 <!-- ![Home Screen](assets/screenshots/homescreen.png) -->
 
@@ -19,6 +19,8 @@ UI inpired from Marcus NG
 <img src="assets/screenshots/cartscreen.png" width="400px" title="Cart Screen" alt="cart_screen"</img>
 </div>
 
+
+UI inpired from Marcus NG
 
 <!-- ![Restaurant Screen](assets/screenshots/restourantscreen.png) -->
 <!-- ![Cart Screen](assets/screenshots/cartscreen.png) -->
