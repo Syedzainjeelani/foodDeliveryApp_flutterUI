@@ -5,16 +5,18 @@ Flutter UI Practice, Food Delivery App UI
 UI inpired from Marcus NG
 
 <!-- ![Home Screen](assets/screenshots/homescreen.png) -->
-<p>Home Screen</p>
+<!-- <p>Home Screen</p> -->
 <div align="center">
-<img src="assets/screenshots/homescreen.png" width="400px"</img>
+<img src="assets/screenshots/homescreen.png" width="400px" title="Home Screen" alt="homescreen"</img>
+</div>
 
-<p>Restaurant Screen</p>
-<img src="assets/screenshots/restourantscreen.png" width="400px"</img>
-
-<p>Cart Screen</p>
-<img src="assets/screenshots/cartscreen.png" width="400px"</img>
-
+<div align="center">
+<!-- <p>Restaurant Screen</p> -->
+<img src="assets/screenshots/restourantscreen.png" width="400px" title="Restaurant Screen" alt="restaurant_screen"</img>
+</div>
+<div align="center">
+<!-- <p>Cart Screen</p> -->
+<img src="assets/screenshots/cartscreen.png" width="400px" title="Cart Screen" alt="cart_screen"</img>
 </div>
 <!-- ![Restaurant Screen](assets/screenshots/restourantscreen.png) -->
 
